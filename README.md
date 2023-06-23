@@ -50,9 +50,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Acknowledgments
 
 - [ATAS platform](https://www.atas.net/) - The trading platform used for data retrieval and visualization.
-- [Jupyter Notebook](https://jupyter.org
-
-/) - The interactive computing environment used for the calculations.
+- [Jupyter Notebook](https://jupyter.org/) - The interactive computing environment used for the calculations.
 - Spreadsheet Software - The application used to open and view the generated CSV and Excel files.
 
 ## Contact
